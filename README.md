@@ -17,6 +17,7 @@ Each topic aims to include:
 ### 01 — Foundations
 1. [Why SQL Exists](01-fundamentals/01-why-sql-exists.md)
 2. [What Is a Database?](01-fundamentals/02-what-is-a-database.md)
+3. [Workloads, Transactions, ACID, and DBMS vs. RDBMS](01-fundamentals/03-workloads-transactions-and-dbms.md)
 
 ### 02 — Querying
 *Coming soon*
